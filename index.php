@@ -14,7 +14,6 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <!-- Header = Cabeçalho -->
     <header class="cabecalho">
        <h1 class="logo">
            <a href="index.html" title="Shop"></a>
@@ -25,7 +24,6 @@
             <button><i class="fa fa-search fa-lg"></i> </button>
        </form>
     </header>
-    <!-- Nav - menu de navegação -->
     <nav class="menu">
         <ul>
             <li><a href="#"> Inicio </a></li>
@@ -36,19 +34,15 @@
             <a href="#" class="btn-google"> <i class="fa fa-google fa-lg"></i> </a>
         </div>
     </nav>
-    <!-- Conteúdo Principal da página -->
     <main class="principal">
         <article class="sobre">
             <h2>Sobre nosotros</h2>
             <img src="img/loja.jpg" alt="NodeShop">
             <p>
-                Esta página corresponde a la práctica 2 de 
+                Esta página corresponde a la práctica 2 del Sem. de SO en Red
             </p>
         </article>
         <aside class="onde-estamos">
-            <h2>Ubicación</h2>
-            <p> CUCEI</p>
-            <iframe src="https://goo.gl/maps/juEUijwa3nL2"></iframe>
             <h2> Contacto </h2>
             <ul>
                 <li><i class="fa fa-phone fa-lg"></i>3321567562/li>
@@ -57,7 +51,6 @@
             </ul>
         </aside>
     </main>
-    <!-- Parte genérica do site -->
     <section class="newsletter">
         <h3>Suscripción</h3>
         <p> Escribe tu email para obtener información </p>
@@ -67,7 +60,6 @@
             <button>Suscribir</button>
         </form>
     </section>
-    <!-- Rodapé -->
     <footer class="rodape">
         <p>Juan Manuel Banda Avalos - Practica 2</p>
     </footer>
