@@ -5,7 +5,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="utf-8" />
-    <title>Node Shop</title>
+    <title>Practica3</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/main.css" />
@@ -17,21 +17,18 @@
     <!-- Header = Cabeçalho -->
     <header class="cabecalho">
        <h1 class="logo">
-           <a href="index.html" title="Node Shop - Loja de Informática"></a>
+           <a href="index.html" title="Shop"></a>
        </h1> 
 
        <form method="post">
-            <input type="text" placeholder="Fazer uma busca">
+            <input type="text" placeholder="">
             <button><i class="fa fa-search fa-lg"></i> </button>
        </form>
     </header>
     <!-- Nav - menu de navegação -->
     <nav class="menu">
         <ul>
-            <li><a href="#"> Home </a></li>
-            <li><a href="#"> Produtos </a></li>
-            <li><a href="#"> Serviços </a></li>
-            <li><a href="#"> Contato </a></li>
+            <li><a href="#"> Inicio </a></li>
         </ul>
         <div class="social-icons">
             <a href="#" class="btn-facebook"> <i class="fa fa-facebook fa-lg"></i> </a>
@@ -42,56 +39,37 @@
     <!-- Conteúdo Principal da página -->
     <main class="principal">
         <article class="sobre">
-            <h2>Sobre nós</h2>
+            <h2>Sobre nosotros</h2>
             <img src="img/loja.jpg" alt="NodeShop">
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                Corrupti dolorem veritatis, commodi amet voluptatum vel animi, 
-                incidunt distinctio, a hic quibusdam ab alias beatae aliquam! 
-                Dolore eveniet ea id aut!
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Dolores expedita atque impedit ullam, culpa provident quisquam 
-                fuga qui. Nihil asperiores cum amet. Suscipit, aut nam natus 
-                consequatur excepturi ullam soluta?
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-                Quas, velit soluta consequatur adipisci, fugiat quo id nisi 
-                esse pariatur similique tempora quidem hic alias minus aliquid 
-                necessitatibus praesentium, dolores cupiditate?
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Adipisci natus, ex expedita mollitia amet deserunt eius 
-                tempora molestias aliquam debitis nostrum quia dignissimos 
-                repudiandae eos totam, quod accusamus beatae officiis!
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Neque rerum, fugiat magnam enim voluptate minima dolore vel, 
-                ad est ratione ut eligendi, quam aut assumenda nesciunt veniam 
-                reprehenderit praesentium. Temporibus.
+                Esta página corresponde a la práctica 2 de 
             </p>
         </article>
         <aside class="onde-estamos">
-            <h2>Onde estamos</h2>
-            <p> Rua Dom Pedro II - Centro, Curitiba - PR </p>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28882.396471594613!2d-49.329624746236135!3d-25.193118419463357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcd9d88001cf8d%3A0x6a0cbc1042183f17!2sRio+Branco+do+Sul%2C+PR%2C+83540-000!5e0!3m2!1spt-BR!2sbr!4v1519018510813"></iframe>
-            <h2> Contatos </h2>
+            <h2>Ubicación</h2>
+            <p> CUCEI</p>
+            <iframe src="https://goo.gl/maps/juEUijwa3nL2"></iframe>
+            <h2> Contacto </h2>
             <ul>
-                <li><i class="fa fa-phone fa-lg"></i> (41) 3652-3475</li>
-                <li><i class="fa fa-whatsapp fa-lg"></i> (41) 96213471</li>
-                <li><i class="fa fa-envelope fa-lg"></i> johnwbfaria@gmail.com</li>
+                <li><i class="fa fa-phone fa-lg"></i>3321567562/li>
+                <li><i class="fa fa-whatsapp fa-lg"></i>3321567562</li>
+                <li><i class="fa fa-envelope fa-lg"></i> gmanu109@gmail.com</li>
             </ul>
         </aside>
     </main>
     <!-- Parte genérica do site -->
     <section class="newsletter">
-        <h3>Newsletter</h3>
-        <p> Receba nossas informações por email </p>
+        <h3>Suscripción</h3>
+        <p> Escribe tu email para obtener información </p>
         <form method="post">
             <input type="text" placeholder="Seu nome">
             <input type="email" placeholder="Seu Email">
-            <button>Cadastrar</button>
+            <button>Suscribir</button>
         </form>
     </section>
     <!-- Rodapé -->
     <footer class="rodape">
-        <p>© NodeShop - Todos os direitos reservados</p>
+        <p>Juan Manuel Banda Avalos - Practica 2</p>
     </footer>
 </body>
 </html>
