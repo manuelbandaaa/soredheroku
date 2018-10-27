@@ -55,8 +55,8 @@
         <h3>Suscripción</h3>
         <p> Escribe tu email para obtener información </p>
         <form method="post">
-            <input type="text" placeholder="Seu nome">
-            <input type="email" placeholder="Seu Email">
+            <input type="text" placeholder="Nombre">
+            <input type="email" placeholder="Email">
             <button>Suscribir</button>
         </form>
     </section>
