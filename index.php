@@ -5,7 +5,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="utf-8" />
-    <title>Practica3</title>
+    <title>Practica2</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/main.css" />
@@ -45,7 +45,7 @@
         <aside class="onde-estamos">
             <h2> Contacto </h2>
             <ul>
-                <li><i class="fa fa-phone fa-lg"></i>3321567562/li>
+                <li><i class="fa fa-phone fa-lg"></i>3321567562</li>
                 <li><i class="fa fa-whatsapp fa-lg"></i>3321567562</li>
                 <li><i class="fa fa-envelope fa-lg"></i> gmanu109@gmail.com</li>
             </ul>
